@@ -10,7 +10,7 @@ I'm a **Computer Science student** passionate about technology and constantly ex
 
 - 🐍 **Programming Skills**: Python  
 - 🖥️ **Tech Expertise**: IT Hardware & Operating Systems Maintenance  
-- 🚀 **Learning Journey**: Currently diving into **DevOps**  
+- 🚀 **Learning Journey**: Currently diving into **HCI/ User-Interface Design and Linux/Unix OS**  
 
 ---
 
