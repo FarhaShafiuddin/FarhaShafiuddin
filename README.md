@@ -2,13 +2,13 @@
 
 ![Header Image](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+GitHub)  
 
-I'm a **Computer Science student** passionate about technology and constantly exploring new ways to innovate and grow in the tech field.  
+I'm a **Computer Science student** focused on software development and user-centered design. I’m passionate about building intuitive, efficient interfaces that enhance user experience and streamline functionality. I continuously explore emerging technologies and innovative approaches to improve my skills and contribute to impactful tech solutions.
 
 ---
 
 ## 🌟 About Me  
 
-- 🐍 **Programming Skills**: Python  
+- 🐍 **Programming Skills**: Python, 
 - 🖥️ **Tech Expertise**: IT Hardware & Operating Systems Maintenance  
 - 🚀 **Learning Journey**: Currently diving into **HCI/ User-Interface Design and Linux/Unix OS**  
 
