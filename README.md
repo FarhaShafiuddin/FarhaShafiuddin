@@ -43,7 +43,7 @@ Here are some of the technologies and tools I work with:
 Let's connect and collaborate!  
 
 - 🌐 [**LinkedIn**](#)  
-- ✉️ [**Email Me**](mailto:your-email@example.com)  
+- ✉️ [**Email Me**](mailto:shafiuddinfarha@gmail.com)  
 
 ---
 
