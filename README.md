@@ -9,8 +9,8 @@ I build **Python-based tools** and **UX/UI prototypes** with a focus on **ethica
 ## 🔗 Find Me Online
 
 - 🌐 Portfolio: [Farha Shafiuddin Portfolio](https://github.com/FarhaShafiuddin/Farha-Shafiuddin)  
-- 💼 LinkedIn: [Farha Shafiuddin- LinkedIn Profile] (https://www.linkedin.com/in/farha-shafiuddin-5a360a264/)  
-- ✉️ Email: [shafiuddinfarha@gmail.com] (shafiuddinfarha@gmail.com)
+- 💼 LinkedIn: (https://www.linkedin.com/in/farha-shafiuddin-5a360a264/)  
+- ✉️ Email: [shafiuddinfarha@gmail.com](shafiuddinfarha@gmail.com)
 
 ---
 
