@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Farha Shafiuddin
 
-**Computer Science Student | Python Developer 🐍 | UX/UI Designer 🎨**
+**Computer Science Student | Python Developer <img width="211" height="71" alt="image" src="https://github.com/user-attachments/assets/e89058ec-7ba6-4e44-994d-2f95df000187" /> | Angular <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/f4ec4654-1f57-4992-8fe4-ff4d03bf5bfb" />
+
+ | UX/UI Designer 🎨**
 
 I build **Python-based tools** and **UX/UI prototypes** with a focus on **ethical, user-centered design** and accessibility. My work spans Python applications, data analysis, and interactive interfaces that are practical, inclusive, and polished.
 
@@ -34,8 +36,8 @@ I build **Python-based tools** and **UX/UI prototypes** with a focus on **ethica
 
 ## 🛠 Skills & Technologies
 
-- **Programming & Data:** Python 🐍, HTML/CSS, Markdown, Data Analysis, GUI Development  
-- **Tools & Libraries:** Tkinter, Pandas, Matplotlib, Scikit-learn, NLP 🧠, Figma 🎨  
+- **Programming & Data:** Python, HTML/CSS, Angular, Markdown, Data Analysis, GUI Development  
+- **Tools & Libraries:** Tkinter, Pandas, Matplotlib, Scikit-learn, NLP, Figma  
 - **UX & Design Focus:** UX/UI Design, Accessibility, Ethical Technology  
 - **IT & Systems:** 🖥️ IT Hardware & Operating Systems Maintenance
 
