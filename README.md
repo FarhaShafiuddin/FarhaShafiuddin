@@ -14,7 +14,7 @@ I build Python-based tools and UX/UI prototypes that prioritize usability, clari
 
 ## 💻 Selected Work
 
-- **UX & Python Prototypes**- Python-based interfaces exploring usability, workflow design, and accessibility
+- **UX & Python Prototypes** - Python-based interfaces exploring usability, workflow design, and accessibility
 
 - **Accessible Form Prototype** – Inclusive form design focused on clarity and user comprehension
 
